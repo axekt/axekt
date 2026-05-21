@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">¡Hola! Soy Axel (Axekt) 👋</h1>
 
-<!--
-**axekt/axekt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggZd3pbYQCyOpi/giphy.gif" width="200" />
+</div>
 
-Here are some ideas to get you started:
+<h3 align="center">Estudiante de Ingeniería Civil Informática | Universidad Católica de Temuco (UCT)</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 Sobre mí
+
+* 🎓 Actualmente cursando mi **segundo año** de la carrera.
+* ⚙️ Apasionado por la **automatización de software**, el desarrollo de bases de datos y la arquitectura de hardware.
+* 🚀 Desarrollando proyectos como bots de automatización con Python (integrando APIs) y plataformas web para gestión de datos.
+* 🎮 En mi tiempo libre: Main Support en el competitivo amateur de LoL, siguiendo la Fórmula 1 y trabajando en mi propia novela ligera. 
+
+### 🛠️ Stack Tecnológico
+
+* **Lenguajes:** Python, SQL, PHP
+* **Enfoque:** Scripts de automatización, Procedimientos almacenados (Stored Procedures), Diseño de circuitos y lógica.
+
+### 📊 Mis Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Axekt&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axekt&theme=tokyonight&hide_border=true" />
+</div>
