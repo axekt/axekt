@@ -23,7 +23,8 @@
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=axekt&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de axekt" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Axekt&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Estadísticas de Axekt" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=axekt&theme=tokyonight&hide_border=true" alt="Racha de axekt" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=Axekt&theme=tokyonight&hide_border=true&v=1" alt="Racha de Axekt" />
 </p>
