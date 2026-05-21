@@ -1,14 +1,14 @@
 <h1 align="center">¡Hola! Soy Axel (Axekt) 👋</h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggZd3pbYQCyOpi/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/TqTEw1Uy7dCZNTIELw/giphy.gif" width="300" alt="Genshin Impact GIF" />
 </div>
 
 <h3 align="center">Estudiante de Ingeniería Civil Informática | Universidad Católica de Temuco (UCT)</h3>
 
 ---
 
-### 👨‍💻 Sobre mí
+### 👩‍💻 Sobre mí
 
 * 🎓 Actualmente cursando mi **segundo año** de la carrera.
 * ⚙️ Apasionado por la **automatización de software**, el desarrollo de bases de datos y la arquitectura de hardware.
@@ -22,11 +22,8 @@
 
 ### 📊 Mis Estadísticas de GitHub
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=axekt&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de axekt" />
-</p>
-
-<p align="center">
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=axekt&theme=tokyonight&hide_border=true" alt="Racha de axekt" />
 </p>
