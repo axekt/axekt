@@ -17,7 +17,7 @@
 
 ### 🛠️ Stack Tecnológico
 
-* **Lenguajes:** Python, SQL, PHP
+* **Lenguajes:** Python, SQL,html, js, PHP
 * **Enfoque:** Scripts de automatización, Procedimientos almacenados (Stored Procedures), Diseño de circuitos y lógica.
 
 ### 📊 Mis Estadísticas de GitHub
