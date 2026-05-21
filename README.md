@@ -13,7 +13,7 @@
 * 🎓 Actualmente cursando mi **segundo año** de la carrera.
 * ⚙️ Apasionado por la **automatización de software**, el desarrollo de bases de datos y la arquitectura de hardware.
 * 🚀 Desarrollando proyectos como bots de automatización con Python (integrando APIs) y plataformas web para gestión de datos.
-* 🎮 En mi tiempo libre: Main Support en el competitivo amateur de LoL, siguiendo la Fórmula 1 y trabajando en mi propia novela ligera. 
+* 🎮 En mi tiempo libre: Main Support en el competitivo amateur de LoL, siguiendo la Fórmula 1.
 
 ### 🛠️ Stack Tecnológico
 
