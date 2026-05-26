@@ -17,14 +17,9 @@
 
 ### 🛠️ Stack Tecnológico
 
-* **Lenguajes:** Python, SQL,html, js, PHP
+* **Lenguajes:** Python, SQL,html
 * **Enfoque:** Scripts de automatización, Procedimientos almacenados (Stored Procedures), Diseño de circuitos y lógica.
 
-### 📊 Mis Estadísticas de GitHub
 
-<p align="center">
-  
-  <br>
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=Axekt&theme=tokyonight&hide_border=true&v=1" alt="Racha de Axekt" />
-</p>
+
+
